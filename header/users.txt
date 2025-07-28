@@ -1,0 +1,4 @@
+admin,admin123,1
+user1,password,0
+user2,pass123,0
+4,34,1

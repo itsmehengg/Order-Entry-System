@@ -1,0 +1,25 @@
+========================================
+           SALES INVOICE
+      Electronic Store System
+========================================
+Invoice #: 1
+Customer: user1
+Date: 2025-01-02
+Time: 19:22:25
+Payment Method: Credit Card
+========================================
+
+ITEMS PURCHASED:
+Product             Price     Qty     Total       
+-------------------------------------------------------
+Laptop              999.99    3       2999.97     
+-------------------------------------------------------
+Subtotal: $2999.97
+Tax (10%): $300.00
+========================================
+TOTAL PAID: $3299.97
+========================================
+Status: Completed
+
+Thank you for your purchase!
+Visit us again soon!

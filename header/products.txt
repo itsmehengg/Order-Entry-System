@@ -1,0 +1,6 @@
+1,Laptop,Electronics,999.99,7,High-performance laptop
+2,Mouse,Electronics,25.5,50,Wireless optical mouse
+3,Keyboard,Electronics,75,30,Mechanical gaming keyboard
+4,Monitor,Electronics,299.99,15,24-inch LED monitor
+5,Headphones,Electronics,150,25,Noise-cancelling headphones
+6,acer,gadjet,90,5,RTX4050
